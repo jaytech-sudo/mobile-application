@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FF0000</color>
+    <color name="light_orange">#FF9800</color>
+    <color name="light_green">#8BC34A</color>
+
+        <color name="colorPrimary">#6200EE</color> <!-- Example color -->
+        <color name="colorAccent">#03DAC5</color> <!-- Example color -->
+        <color name="colorPrimaryDark">#3700B3</color> <!-- Example color -->
+
+
+    <color name="light_blue">#ADD8E6</color>
+
+        <color name="background_color">#FFFFFF</color>
+        <color name="primary_text_color">#333333</color>
+        <color name="hint_text_color">#888888</color>
+        <color name="button_text_color">#FFFFFF</color>
+        <color name="button_color">#6200EE</color>
+    <color name="text_color">#888888</color>
+
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- res/drawable/success_message_background.xml -->
+    <shape xmlns:android="http://schemas.android.com/apk/res/android" tools:ignore="RedundantNamespace">
+        <solid android:color="#E8F5E9"/> <!-- Light green background color -->
+        <corners android:radius="8dp"/> <!-- Rounded corners -->
+        <padding android:left="12dp" android:top="8dp" android:right="12dp" android:bottom="8dp"/> <!-- Padding inside the background -->
+    </shape>
+
+</selector>
